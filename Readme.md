@@ -6,9 +6,11 @@ This tool can search text using an unknown coding, for it to work you need to us
 
 The search use the character repetion and serach for a repetion with the same pattern of repetions
 for example:
+
 ***"This is just a sample text"***
 can match with
 ***"Yjod od kidy s dsqzçr yrcy"***
+
 He matchs because the repetion pattern have the same distance and times in this line
 
 - **T** and **Y**: Shows only one time at the position **0**
