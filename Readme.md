@@ -29,7 +29,9 @@ He matchs because the repetion pattern have the same distance and times in this 
 
 And if all pattern match he will list the file and the match offset, If the file use a simple obfuscation like a static xor this tool will works too.
 But keep in mind, strings like this:
-"Nothing Here"
+
+**"Nothing Here"**
+
 Only contains the repetion in the 'e', this will a false positive match's, you need choose a good string to a proper search.
 
 ## Why use this?
