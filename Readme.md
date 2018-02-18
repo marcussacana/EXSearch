@@ -32,7 +32,7 @@ But keep in mind, strings like this:
 
 **"Nothing Here"**
 
-Only contains the repetion in the 'e', this will a false positive match's, you need choose a good string to a proper search.
+Only contains the repetion in the 'e', this will give false positive match's, you need choose a good string to a proper search.
 
 ## Why use this?
 I created this tool to search the text inside game scripts who uses a personal encoding, since i don't know where is the text i just found a good string and give to this tool search, he will say where the string matchs and I can analyze the game encoding just putting a hardware breakpoint in the text.
