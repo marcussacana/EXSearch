@@ -4,7 +4,7 @@ This tool can search text using an unknown coding, for it to work you need to us
 
 # Strategy
 
-The search use the character repetion and serach for a repetion with the same pattern of repetions
+The search use the character repetion and search for a repetion with the same pattern of repetions
 for example:
 
 ***"This is just a sample text"***
